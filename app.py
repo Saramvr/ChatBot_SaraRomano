@@ -33,6 +33,9 @@ def obter_resposta(texto: str) -> str:
         'gostas de mim': 'Claro que sim! Adoro conversar contigo.',
         'o que sabes fazer?': 'Posso responder a perguntas simples e fazer-te companhia!',
         'o que mais gostas de fazer?': 'Responder às tuas perguntas!',
+        'tens algum animal de estimação?': 'não... mas gostava muito!',
+        'preferes praia ou piscina?': 'gosto dos dois, mas diria praia',
+        'fazes exercício físico?': 'claro que não...',
         ''
         ('bye', 'adeus', 'tchau'): 'Gostei de falar contigo! Até breve...',
     }
