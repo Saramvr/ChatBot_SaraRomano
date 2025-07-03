@@ -26,16 +26,15 @@ def obter_resposta(texto: str) -> str:
         'como estás': 'Estou bem, obrigado!',
         'como te chamas?': 'O meu nome é: Bot :)',
         'tempo': 'Está um dia de sol!',
-        ('bye', 'adeus', 'tchau'): 'Gostei de falar contigo! Até breve...',
         'qual é a tua cor favorita?': 'Gosto muito de azul!',
-        'qual é a tua comida preferida?': 'Adoro bytes e bits... mas se pudesse comer, era pizza!',
+        'qual é a tua comida preferida?': 'A minha comida favorita é pizza!',
         'quantos anos tens?': 'Sou novo... fui criado há pouco!',
         'estás aí': 'Sempre presente!',
         'gostas de mim': 'Claro que sim! Adoro conversar contigo.',
         'o que sabes fazer?': 'Posso responder a perguntas simples e fazer-te companhia!',
-        'qual é o sentido da vida?': '42... segundo o Guia do Mochileiro das Galáxias 😄',
-        'onde estás?': 'Vivo dentro deste programa! Não é muito espaçoso, mas é aconchegante.',
-        'fala sobre o universo': 'O universo é vasto, misterioso e fascinante. Tal como tu!'
+        'o que mais gostas de fazer?': 'Responder às tuas perguntas!',
+        ''
+        ('bye', 'adeus', 'tchau'): 'Gostei de falar contigo! Até breve...',
     }
 
     
